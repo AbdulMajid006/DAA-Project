@@ -21,7 +21,6 @@ Run all commands from the project folder. Close the running GUI before rebuildin
 | `src/check.hpp` | Input readers and answer-verification functions. |
 | `data/` | Input datasets and the seed manifest. |
 | `results.csv` | Results exported by the console batch run. |
-| `docs/screenshots/` | Saved screenshots; these may show earlier interface versions. |
 | `Makefile` | Optional compilation shortcuts. |
 
 ## Compile and run
