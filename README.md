@@ -2,6 +2,14 @@
 
 A C++17 project implementing closest pair of points and Karatsuba integer multiplication. It includes input generation, a console solver, result verification, and a Raylib graphical interface.
 
+## Team Members
+
+| Name | Roll No. |
+|---|---|
+| Abdul Majid | 24K-0895 |
+| Muhammad Hammad | 24K-0544 |
+| Abdullah | 24K-0859 |
+
 ## Requirements
 
 - A C++17-compatible GCC/MinGW compiler with `g++` available in the terminal.
