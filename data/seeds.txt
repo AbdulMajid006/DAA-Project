@@ -1,0 +1,20 @@
+cp01  seed=1001  n=1000
+cp02  seed=1002  n=10000
+cp03  seed=1003  n=100000
+cp04  seed=1004  n=1000000
+cp05  seed=1005  n=1000000
+cp06  seed=1006  n=1000000
+cp07  seed=1007  n=100000
+cp08  seed=1008  n=100000
+cp09  seed=1009  n=1000000
+cp10  seed=1010  n=101
+im01  seed=2001  digits=1000 and 1000
+im02  seed=2002  digits=10000 and 10000
+im03  seed=2003  digits=100000 and 100000
+im04  seed=2004  digits=1000000 and 1000000
+im05  seed=2005  digits=1000000 and 10
+im06  seed=2006  digits=100000 and 100000
+im07  seed=2007  digits=99999 and 99999
+im08  seed=2008  digits=1000000 and 1000000
+im09  seed=2009  digits=1 and 1000000
+im10  seed=2010  digits=101 and 101
